@@ -1,2 +1,2 @@
 # test
-This is test repo
+This Repo is for manage AWS resource using terraform.
